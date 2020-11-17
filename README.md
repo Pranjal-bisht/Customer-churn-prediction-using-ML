@@ -1,4 +1,4 @@
-# ML
+# Employee churn prediction
 1> Applied machine learning to predict which customer churned out from an organisation based on features like Credit score, Gender, Geography,etc.
 
 
